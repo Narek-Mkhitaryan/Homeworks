@@ -1,8 +1,0 @@
-C:\Users\User_\Desktop\Algorithms_Homework_1.1\Algorithms_Homework_1.1\bin\Debug\Algorithms_Homework_1.1.exe.config
-C:\Users\User_\Desktop\Algorithms_Homework_1.1\Algorithms_Homework_1.1\bin\Debug\Algorithms_Homework_1.1.exe
-C:\Users\User_\Desktop\Algorithms_Homework_1.1\Algorithms_Homework_1.1\bin\Debug\Algorithms_Homework_1.1.pdb
-C:\Users\User_\Desktop\Algorithms_Homework_1.1\Algorithms_Homework_1.1\obj\Debug\Algorithms_Homework_1.1.csproj.AssemblyReference.cache
-C:\Users\User_\Desktop\Algorithms_Homework_1.1\Algorithms_Homework_1.1\obj\Debug\Algorithms_Homework_1.1.csproj.SuggestedBindingRedirects.cache
-C:\Users\User_\Desktop\Algorithms_Homework_1.1\Algorithms_Homework_1.1\obj\Debug\Algorithms_Homework_1.1.csproj.CoreCompileInputs.cache
-C:\Users\User_\Desktop\Algorithms_Homework_1.1\Algorithms_Homework_1.1\obj\Debug\Algorithms_Homework_1.1.exe
-C:\Users\User_\Desktop\Algorithms_Homework_1.1\Algorithms_Homework_1.1\obj\Debug\Algorithms_Homework_1.1.pdb
