@@ -1,0 +1,8 @@
+C:\Users\User_\Desktop\Algorithms_Homework_1.2 (Operations on Data Structures)\Algorithms_Homework_1.2 (Operations on Data Structures)\bin\Debug\Algorithms_Homework_1.2 (Operations on Data Structures).exe.config
+C:\Users\User_\Desktop\Algorithms_Homework_1.2 (Operations on Data Structures)\Algorithms_Homework_1.2 (Operations on Data Structures)\bin\Debug\Algorithms_Homework_1.2 (Operations on Data Structures).exe
+C:\Users\User_\Desktop\Algorithms_Homework_1.2 (Operations on Data Structures)\Algorithms_Homework_1.2 (Operations on Data Structures)\bin\Debug\Algorithms_Homework_1.2 (Operations on Data Structures).pdb
+C:\Users\User_\Desktop\Algorithms_Homework_1.2 (Operations on Data Structures)\Algorithms_Homework_1.2 (Operations on Data Structures)\obj\Debug\Algorithms_Homework_1.2 (Operations on Data Structures).csproj.AssemblyReference.cache
+C:\Users\User_\Desktop\Algorithms_Homework_1.2 (Operations on Data Structures)\Algorithms_Homework_1.2 (Operations on Data Structures)\obj\Debug\Algorithms_Homework_1.2 (Operations on Data Structures).csproj.SuggestedBindingRedirects.cache
+C:\Users\User_\Desktop\Algorithms_Homework_1.2 (Operations on Data Structures)\Algorithms_Homework_1.2 (Operations on Data Structures)\obj\Debug\Algorithms_Homework_1.2 (Operations on Data Structures).csproj.CoreCompileInputs.cache
+C:\Users\User_\Desktop\Algorithms_Homework_1.2 (Operations on Data Structures)\Algorithms_Homework_1.2 (Operations on Data Structures)\obj\Debug\Algorithms_Homework_1.2 (Operations on Data Structures).exe
+C:\Users\User_\Desktop\Algorithms_Homework_1.2 (Operations on Data Structures)\Algorithms_Homework_1.2 (Operations on Data Structures)\obj\Debug\Algorithms_Homework_1.2 (Operations on Data Structures).pdb
