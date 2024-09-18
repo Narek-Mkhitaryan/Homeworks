@@ -1,0 +1,8 @@
+C:\Users\User_\Desktop\Algorithms_Homework_1.3 (Additional Tasks)\Algorithms_Homework_1.3 (Additional Tasks)\bin\Debug\Algorithms_Homework_1.3 (Additional Tasks).exe.config
+C:\Users\User_\Desktop\Algorithms_Homework_1.3 (Additional Tasks)\Algorithms_Homework_1.3 (Additional Tasks)\bin\Debug\Algorithms_Homework_1.3 (Additional Tasks).exe
+C:\Users\User_\Desktop\Algorithms_Homework_1.3 (Additional Tasks)\Algorithms_Homework_1.3 (Additional Tasks)\bin\Debug\Algorithms_Homework_1.3 (Additional Tasks).pdb
+C:\Users\User_\Desktop\Algorithms_Homework_1.3 (Additional Tasks)\Algorithms_Homework_1.3 (Additional Tasks)\obj\Debug\Algorithms_Homework_1.3 (Additional Tasks).csproj.AssemblyReference.cache
+C:\Users\User_\Desktop\Algorithms_Homework_1.3 (Additional Tasks)\Algorithms_Homework_1.3 (Additional Tasks)\obj\Debug\Algorithms_Homework_1.3 (Additional Tasks).csproj.SuggestedBindingRedirects.cache
+C:\Users\User_\Desktop\Algorithms_Homework_1.3 (Additional Tasks)\Algorithms_Homework_1.3 (Additional Tasks)\obj\Debug\Algorithms_Homework_1.3 (Additional Tasks).csproj.CoreCompileInputs.cache
+C:\Users\User_\Desktop\Algorithms_Homework_1.3 (Additional Tasks)\Algorithms_Homework_1.3 (Additional Tasks)\obj\Debug\Algorithms_Homework_1.3 (Additional Tasks).exe
+C:\Users\User_\Desktop\Algorithms_Homework_1.3 (Additional Tasks)\Algorithms_Homework_1.3 (Additional Tasks)\obj\Debug\Algorithms_Homework_1.3 (Additional Tasks).pdb
